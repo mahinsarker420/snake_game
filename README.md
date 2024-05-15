@@ -1,1 +1,1 @@
-# Visit : https://mahinsarker420.github.com/snake_game
+# Visit : https://mahinsarker420.github.io/snake_game
